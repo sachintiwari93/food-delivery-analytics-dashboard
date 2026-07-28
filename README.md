@@ -60,4 +60,4 @@ Food_Delivery_Analytics/
 This project demonstrates practical skills in SQL, Python, data cleaning, exploratory data analysis (EDA), dashboard development, and business intelligence using Power BI.
 
 📷 Dashboard Preview
-![Dashboard](C:\Users\mayan\OneDrive\Documents\Desktop\Food_Delivery_Analytics\09_Images)
+! [Dashboard](09_Images/dashboard.png)
