@@ -60,4 +60,4 @@ Food_Delivery_Analytics/
 This project demonstrates practical skills in SQL, Python, data cleaning, exploratory data analysis (EDA), dashboard development, and business intelligence using Power BI.
 
 📷 Dashboard Preview
-! [Dashboard](09_Images/dashboard.png)
+![Dashboard](09_Images/dashboard.png)
